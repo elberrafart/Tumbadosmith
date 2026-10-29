@@ -1,0 +1,294 @@
+{
+ "id": "bajo-arpegios",
+ "title": {
+  "es": "Arpegios menores",
+  "en": "Minor Arpeggios"
+ },
+ "description": {
+  "es": "Arpegios de Lam, Rem y Mi en corcheas, luego dos octavas.",
+  "en": "Am, Dm and E arpeggios in eighths, then across two octaves."
+ },
+ "instrument": "bass",
+ "tuning": [
+  0,
+  0,
+  0,
+  0
+ ],
+ "bpm": 100,
+ "timeSig": [
+  3,
+  4
+ ],
+ "difficulty": 3,
+ "sections": [
+  {
+   "name": "Una octava",
+   "start": 0
+  },
+  {
+   "name": "Dos octavas",
+   "start": 7.2
+  }
+ ],
+ "notes": [
+  {
+   "t": 0,
+   "string": 3,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 0.3,
+   "string": 2,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 0.6,
+   "string": 1,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 0.9,
+   "string": 1,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 1.2,
+   "string": 1,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 1.5,
+   "string": 2,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 1.8,
+   "string": 2,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 2.1,
+   "string": 2,
+   "fret": 3,
+   "dur": 0
+  },
+  {
+   "t": 2.4,
+   "string": 1,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 2.7,
+   "string": 1,
+   "fret": 7,
+   "dur": 0
+  },
+  {
+   "t": 3,
+   "string": 1,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 3.3,
+   "string": 2,
+   "fret": 3,
+   "dur": 0
+  },
+  {
+   "t": 3.6,
+   "string": 4,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 3.9,
+   "string": 3,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 4.2,
+   "string": 2,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 4.5,
+   "string": 1,
+   "fret": 1,
+   "dur": 0
+  },
+  {
+   "t": 4.8,
+   "string": 2,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 5.1,
+   "string": 3,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 5.4,
+   "string": 3,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 5.7,
+   "string": 2,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 6,
+   "string": 1,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 6.3,
+   "string": 1,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 6.6,
+   "string": 1,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 6.9,
+   "string": 2,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 7.2,
+   "string": 3,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 7.5,
+   "string": 3,
+   "fret": 3,
+   "dur": 0
+  },
+  {
+   "t": 7.8,
+   "string": 2,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 8.1,
+   "string": 1,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 8.4,
+   "string": 1,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 8.7,
+   "string": 1,
+   "fret": 9,
+   "dur": 0
+  },
+  {
+   "t": 9,
+   "string": 1,
+   "fret": 9,
+   "dur": 0
+  },
+  {
+   "t": 9.3,
+   "string": 1,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 9.6,
+   "string": 1,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 9.9,
+   "string": 2,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 10.2,
+   "string": 3,
+   "fret": 3,
+   "dur": 0
+  },
+  {
+   "t": 10.5,
+   "string": 3,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 10.8,
+   "string": 4,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 11.1,
+   "string": 4,
+   "fret": 4,
+   "dur": 0
+  },
+  {
+   "t": 11.4,
+   "string": 3,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 11.7,
+   "string": 2,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 12,
+   "string": 2,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 12.3,
+   "string": 1,
+   "fret": 1,
+   "dur": 0
+  },
+  {
+   "t": 12.6,
+   "string": 3,
+   "fret": 0,
+   "dur": 1.02
+  }
+ ]
+}

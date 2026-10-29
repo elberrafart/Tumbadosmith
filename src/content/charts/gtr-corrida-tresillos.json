@@ -1,0 +1,374 @@
+{
+ "id": "gtr-corrida-tresillos",
+ "title": {
+  "es": "Corrida en tresillos",
+  "en": "Triplet Run"
+ },
+ "description": {
+  "es": "Bajada en grupos de tres por La menor armónica, luego arpegios de Lam y Mi.",
+  "en": "A descending run in groups of three through A harmonic minor, then Am and E arpeggios."
+ },
+ "instrument": "guitar",
+ "tuning": [
+  0,
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "bpm": 80,
+ "timeSig": [
+  3,
+  4
+ ],
+ "difficulty": 3,
+ "sections": [
+  {
+   "name": "Corrida",
+   "start": 0
+  },
+  {
+   "name": "Arpegios",
+   "start": 9
+  }
+ ],
+ "notes": [
+  {
+   "t": 0,
+   "string": 1,
+   "fret": 8,
+   "dur": 0
+  },
+  {
+   "t": 0.25,
+   "string": 1,
+   "fret": 7,
+   "dur": 0
+  },
+  {
+   "t": 0.5,
+   "string": 1,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 0.75,
+   "string": 1,
+   "fret": 7,
+   "dur": 0
+  },
+  {
+   "t": 1,
+   "string": 1,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 1.25,
+   "string": 1,
+   "fret": 4,
+   "dur": 0
+  },
+  {
+   "t": 1.5,
+   "string": 1,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 1.75,
+   "string": 1,
+   "fret": 4,
+   "dur": 0
+  },
+  {
+   "t": 2,
+   "string": 2,
+   "fret": 6,
+   "dur": 0
+  },
+  {
+   "t": 2.25,
+   "string": 1,
+   "fret": 4,
+   "dur": 0
+  },
+  {
+   "t": 2.5,
+   "string": 2,
+   "fret": 6,
+   "dur": 0
+  },
+  {
+   "t": 2.75,
+   "string": 2,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 3,
+   "string": 2,
+   "fret": 6,
+   "dur": 0
+  },
+  {
+   "t": 3.25,
+   "string": 2,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 3.5,
+   "string": 3,
+   "fret": 7,
+   "dur": 0
+  },
+  {
+   "t": 3.75,
+   "string": 2,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 4,
+   "string": 3,
+   "fret": 7,
+   "dur": 0
+  },
+  {
+   "t": 4.25,
+   "string": 3,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 4.5,
+   "string": 3,
+   "fret": 7,
+   "dur": 0
+  },
+  {
+   "t": 4.75,
+   "string": 3,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 5,
+   "string": 3,
+   "fret": 4,
+   "dur": 0
+  },
+  {
+   "t": 5.25,
+   "string": 3,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 5.5,
+   "string": 3,
+   "fret": 4,
+   "dur": 0
+  },
+  {
+   "t": 5.75,
+   "string": 4,
+   "fret": 7,
+   "dur": 0
+  },
+  {
+   "t": 6,
+   "string": 3,
+   "fret": 4,
+   "dur": 0
+  },
+  {
+   "t": 6.25,
+   "string": 4,
+   "fret": 7,
+   "dur": 0
+  },
+  {
+   "t": 6.5,
+   "string": 4,
+   "fret": 6,
+   "dur": 0
+  },
+  {
+   "t": 6.75,
+   "string": 4,
+   "fret": 7,
+   "dur": 1.275
+  },
+  {
+   "t": 9,
+   "string": 6,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 9.25,
+   "string": 5,
+   "fret": 7,
+   "dur": 0
+  },
+  {
+   "t": 9.5,
+   "string": 4,
+   "fret": 7,
+   "dur": 0
+  },
+  {
+   "t": 9.75,
+   "string": 3,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 10,
+   "string": 2,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 10.25,
+   "string": 1,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 10.5,
+   "string": 1,
+   "fret": 8,
+   "dur": 0
+  },
+  {
+   "t": 10.75,
+   "string": 1,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 11,
+   "string": 2,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 11.25,
+   "string": 5,
+   "fret": 7,
+   "dur": 0
+  },
+  {
+   "t": 11.5,
+   "string": 4,
+   "fret": 6,
+   "dur": 0
+  },
+  {
+   "t": 11.75,
+   "string": 3,
+   "fret": 4,
+   "dur": 0
+  },
+  {
+   "t": 12,
+   "string": 2,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 12.25,
+   "string": 1,
+   "fret": 4,
+   "dur": 0
+  },
+  {
+   "t": 12.5,
+   "string": 1,
+   "fret": 7,
+   "dur": 0
+  },
+  {
+   "t": 12.75,
+   "string": 1,
+   "fret": 4,
+   "dur": 0
+  },
+  {
+   "t": 13,
+   "string": 2,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 13.25,
+   "string": 3,
+   "fret": 4,
+   "dur": 0
+  },
+  {
+   "t": 13.5,
+   "string": 5,
+   "fret": 7,
+   "dur": 0
+  },
+  {
+   "t": 13.75,
+   "string": 4,
+   "fret": 7,
+   "dur": 0
+  },
+  {
+   "t": 14,
+   "string": 3,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 14.25,
+   "string": 2,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 14.5,
+   "string": 1,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 14.75,
+   "string": 1,
+   "fret": 8,
+   "dur": 0
+  },
+  {
+   "t": 15,
+   "string": 1,
+   "fret": 7,
+   "dur": 0
+  },
+  {
+   "t": 15.25,
+   "string": 1,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 15.5,
+   "string": 1,
+   "fret": 4,
+   "dur": 0
+  },
+  {
+   "t": 15.75,
+   "string": 1,
+   "fret": 5,
+   "dur": 1.275
+  }
+ ]
+}

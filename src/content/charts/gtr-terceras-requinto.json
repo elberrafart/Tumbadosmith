@@ -1,0 +1,290 @@
+{
+ "id": "gtr-terceras-requinto",
+ "title": {
+  "es": "Terceras de requinto",
+  "en": "Requinto Thirds"
+ },
+ "description": {
+  "es": "Dobles cuerdas en terceras sobre la 1ª y 2ª cuerda. Toca las dos notas juntas.",
+  "en": "Double stops in thirds on strings 1 and 2. Pick both notes together."
+ },
+ "instrument": "guitar",
+ "tuning": [
+  0,
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "bpm": 100,
+ "timeSig": [
+  3,
+  4
+ ],
+ "difficulty": 2,
+ "sections": [
+  {
+   "name": "Arriba",
+   "start": 0
+  },
+  {
+   "name": "Abajo",
+   "start": 7.2
+  }
+ ],
+ "notes": [
+  {
+   "t": 0,
+   "string": 2,
+   "fret": 10,
+   "dur": 0
+  },
+  {
+   "t": 0,
+   "string": 1,
+   "fret": 8,
+   "dur": 0
+  },
+  {
+   "t": 0.6,
+   "string": 2,
+   "fret": 12,
+   "dur": 0
+  },
+  {
+   "t": 0.6,
+   "string": 1,
+   "fret": 10,
+   "dur": 0
+  },
+  {
+   "t": 1.2,
+   "string": 2,
+   "fret": 13,
+   "dur": 0
+  },
+  {
+   "t": 1.2,
+   "string": 1,
+   "fret": 12,
+   "dur": 0
+  },
+  {
+   "t": 1.8,
+   "string": 2,
+   "fret": 15,
+   "dur": 1.02
+  },
+  {
+   "t": 1.8,
+   "string": 1,
+   "fret": 13,
+   "dur": 1.02
+  },
+  {
+   "t": 3,
+   "string": 2,
+   "fret": 13,
+   "dur": 0
+  },
+  {
+   "t": 3,
+   "string": 1,
+   "fret": 12,
+   "dur": 0
+  },
+  {
+   "t": 3.6,
+   "string": 2,
+   "fret": 12,
+   "dur": 0
+  },
+  {
+   "t": 3.6,
+   "string": 1,
+   "fret": 10,
+   "dur": 0
+  },
+  {
+   "t": 4.2,
+   "string": 2,
+   "fret": 10,
+   "dur": 0
+  },
+  {
+   "t": 4.2,
+   "string": 1,
+   "fret": 8,
+   "dur": 0
+  },
+  {
+   "t": 4.8,
+   "string": 2,
+   "fret": 9,
+   "dur": 0
+  },
+  {
+   "t": 4.8,
+   "string": 1,
+   "fret": 7,
+   "dur": 0
+  },
+  {
+   "t": 5.4,
+   "string": 2,
+   "fret": 10,
+   "dur": 1.02
+  },
+  {
+   "t": 5.4,
+   "string": 1,
+   "fret": 8,
+   "dur": 1.02
+  },
+  {
+   "t": 7.2,
+   "string": 2,
+   "fret": 10,
+   "dur": 0
+  },
+  {
+   "t": 7.2,
+   "string": 1,
+   "fret": 8,
+   "dur": 0
+  },
+  {
+   "t": 7.5,
+   "string": 2,
+   "fret": 9,
+   "dur": 0
+  },
+  {
+   "t": 7.5,
+   "string": 1,
+   "fret": 7,
+   "dur": 0
+  },
+  {
+   "t": 7.8,
+   "string": 2,
+   "fret": 6,
+   "dur": 0
+  },
+  {
+   "t": 7.8,
+   "string": 1,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 8.4,
+   "string": 2,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 8.4,
+   "string": 1,
+   "fret": 4,
+   "dur": 0
+  },
+  {
+   "t": 9,
+   "string": 2,
+   "fret": 6,
+   "dur": 0
+  },
+  {
+   "t": 9,
+   "string": 1,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 9.6,
+   "string": 2,
+   "fret": 9,
+   "dur": 0
+  },
+  {
+   "t": 9.6,
+   "string": 1,
+   "fret": 7,
+   "dur": 0
+  },
+  {
+   "t": 9.9,
+   "string": 2,
+   "fret": 10,
+   "dur": 0
+  },
+  {
+   "t": 9.9,
+   "string": 1,
+   "fret": 8,
+   "dur": 0
+  },
+  {
+   "t": 10.2,
+   "string": 2,
+   "fret": 12,
+   "dur": 0
+  },
+  {
+   "t": 10.2,
+   "string": 1,
+   "fret": 10,
+   "dur": 0
+  },
+  {
+   "t": 10.8,
+   "string": 2,
+   "fret": 6,
+   "dur": 0
+  },
+  {
+   "t": 10.8,
+   "string": 1,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 11.4,
+   "string": 2,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 11.4,
+   "string": 1,
+   "fret": 4,
+   "dur": 0
+  },
+  {
+   "t": 12,
+   "string": 2,
+   "fret": 9,
+   "dur": 0
+  },
+  {
+   "t": 12,
+   "string": 1,
+   "fret": 7,
+   "dur": 0
+  },
+  {
+   "t": 12.6,
+   "string": 2,
+   "fret": 10,
+   "dur": 1.02
+  },
+  {
+   "t": 12.6,
+   "string": 1,
+   "fret": 8,
+   "dur": 1.02
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "id": "bajo-tumbado-34",
+ "title": {
+  "es": "Tumbado en 3/4",
+  "en": "Tumbado in 3/4"
+ },
+ "description": {
+  "es": "Raíz, quinta y octava sobre Lam – Sol – Fa – Mi. Va con «Armonía tumbada».",
+  "en": "Root, fifth and octave over Am – G – F – E. Fits with \"Tumbado Rhythm\"."
+ },
+ "instrument": "bass",
+ "tuning": [
+  0,
+  0,
+  0,
+  0
+ ],
+ "bpm": 95,
+ "timeSig": [
+  3,
+  4
+ ],
+ "difficulty": 2,
+ "sections": [
+  {
+   "name": "Básico",
+   "start": 0
+  },
+  {
+   "name": "Variación",
+   "start": 7.5789
+  }
+ ],
+ "notes": [
+  {
+   "t": 0,
+   "string": 3,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 0.6316,
+   "string": 2,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 1.2632,
+   "string": 1,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 1.8947,
+   "string": 4,
+   "fret": 3,
+   "dur": 0
+  },
+  {
+   "t": 2.5263,
+   "string": 2,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 3.1579,
+   "string": 1,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 3.7895,
+   "string": 4,
+   "fret": 1,
+   "dur": 0
+  },
+  {
+   "t": 4.4211,
+   "string": 3,
+   "fret": 3,
+   "dur": 0
+  },
+  {
+   "t": 5.0526,
+   "string": 2,
+   "fret": 3,
+   "dur": 0
+  },
+  {
+   "t": 5.6842,
+   "string": 4,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 6.3158,
+   "string": 3,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 6.9474,
+   "string": 2,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 7.5789,
+   "string": 3,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 8.2105,
+   "string": 2,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 8.5263,
+   "string": 3,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 8.8421,
+   "string": 1,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 9.4737,
+   "string": 4,
+   "fret": 3,
+   "dur": 0
+  },
+  {
+   "t": 10.1053,
+   "string": 2,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 10.4211,
+   "string": 4,
+   "fret": 3,
+   "dur": 0
+  },
+  {
+   "t": 10.7368,
+   "string": 1,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 11.3684,
+   "string": 4,
+   "fret": 1,
+   "dur": 0
+  },
+  {
+   "t": 12,
+   "string": 3,
+   "fret": 3,
+   "dur": 0
+  },
+  {
+   "t": 12.3158,
+   "string": 4,
+   "fret": 1,
+   "dur": 0
+  },
+  {
+   "t": 12.6316,
+   "string": 2,
+   "fret": 3,
+   "dur": 0
+  },
+  {
+   "t": 13.2632,
+   "string": 4,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 13.8947,
+   "string": 3,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 14.2105,
+   "string": 2,
+   "fret": 1,
+   "dur": 0
+  },
+  {
+   "t": 14.5263,
+   "string": 2,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 15.1579,
+   "string": 3,
+   "fret": 0,
+   "dur": 1.0737
+  }
+ ]
+}

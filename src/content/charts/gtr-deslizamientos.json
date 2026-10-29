@@ -1,0 +1,326 @@
+{
+ "id": "gtr-deslizamientos",
+ "title": {
+  "es": "Deslizamientos y sextas",
+  "en": "Slides & Sixths"
+ },
+ "description": {
+  "es": "Cambios de posición con slides y luego sextas en 1ª y 3ª cuerda, muy de requinto.",
+  "en": "Position shifts with slides, then sixths on strings 1 and 3, a requinto staple."
+ },
+ "instrument": "guitar",
+ "tuning": [
+  0,
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "bpm": 100,
+ "timeSig": [
+  4,
+  4
+ ],
+ "difficulty": 4,
+ "sections": [
+  {
+   "name": "Slides",
+   "start": 0
+  },
+  {
+   "name": "Sextas",
+   "start": 9.6
+  }
+ ],
+ "notes": [
+  {
+   "t": 0,
+   "string": 2,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 0.3,
+   "string": 2,
+   "fret": 6,
+   "dur": 0
+  },
+  {
+   "t": 0.6,
+   "string": 2,
+   "fret": 8,
+   "dur": 0.51,
+   "slideTo": 10,
+   "tech": [
+    "slide"
+   ]
+  },
+  {
+   "t": 1.2,
+   "string": 1,
+   "fret": 8,
+   "dur": 0
+  },
+  {
+   "t": 1.5,
+   "string": 1,
+   "fret": 10,
+   "dur": 0
+  },
+  {
+   "t": 1.8,
+   "string": 1,
+   "fret": 12,
+   "dur": 0.51
+  },
+  {
+   "t": 2.4,
+   "string": 1,
+   "fret": 13,
+   "dur": 0
+  },
+  {
+   "t": 2.7,
+   "string": 1,
+   "fret": 12,
+   "dur": 0
+  },
+  {
+   "t": 3,
+   "string": 1,
+   "fret": 10,
+   "dur": 0
+  },
+  {
+   "t": 3.3,
+   "string": 2,
+   "fret": 13,
+   "dur": 0
+  },
+  {
+   "t": 3.6,
+   "string": 2,
+   "fret": 12,
+   "dur": 0
+  },
+  {
+   "t": 3.9,
+   "string": 2,
+   "fret": 10,
+   "dur": 0
+  },
+  {
+   "t": 4.2,
+   "string": 3,
+   "fret": 13,
+   "dur": 0
+  },
+  {
+   "t": 4.8,
+   "string": 3,
+   "fret": 14,
+   "dur": 0
+  },
+  {
+   "t": 5.4,
+   "string": 3,
+   "fret": 12,
+   "dur": 0
+  },
+  {
+   "t": 5.7,
+   "string": 3,
+   "fret": 14,
+   "dur": 0
+  },
+  {
+   "t": 6,
+   "string": 2,
+   "fret": 10,
+   "dur": 0.51,
+   "slideTo": 13,
+   "tech": [
+    "slide"
+   ]
+  },
+  {
+   "t": 6.6,
+   "string": 2,
+   "fret": 12,
+   "dur": 0
+  },
+  {
+   "t": 6.9,
+   "string": 2,
+   "fret": 10,
+   "dur": 0
+  },
+  {
+   "t": 7.2,
+   "string": 3,
+   "fret": 13,
+   "dur": 0
+  },
+  {
+   "t": 7.8,
+   "string": 3,
+   "fret": 14,
+   "dur": 1.02,
+   "slideTo": 9,
+   "tech": [
+    "slide"
+   ]
+  },
+  {
+   "t": 9.6,
+   "string": 3,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 9.6,
+   "string": 1,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 10.2,
+   "string": 3,
+   "fret": 7,
+   "dur": 0
+  },
+  {
+   "t": 10.2,
+   "string": 1,
+   "fret": 7,
+   "dur": 0
+  },
+  {
+   "t": 10.8,
+   "string": 3,
+   "fret": 9,
+   "dur": 0
+  },
+  {
+   "t": 10.8,
+   "string": 1,
+   "fret": 8,
+   "dur": 0
+  },
+  {
+   "t": 11.4,
+   "string": 3,
+   "fret": 10,
+   "dur": 0
+  },
+  {
+   "t": 11.4,
+   "string": 1,
+   "fret": 10,
+   "dur": 0
+  },
+  {
+   "t": 12,
+   "string": 3,
+   "fret": 13,
+   "dur": 1.02
+  },
+  {
+   "t": 12,
+   "string": 1,
+   "fret": 12,
+   "dur": 1.02
+  },
+  {
+   "t": 13.2,
+   "string": 3,
+   "fret": 14,
+   "dur": 0
+  },
+  {
+   "t": 13.2,
+   "string": 1,
+   "fret": 13,
+   "dur": 0
+  },
+  {
+   "t": 13.8,
+   "string": 3,
+   "fret": 13,
+   "dur": 0
+  },
+  {
+   "t": 13.8,
+   "string": 1,
+   "fret": 12,
+   "dur": 0
+  },
+  {
+   "t": 14.4,
+   "string": 3,
+   "fret": 10,
+   "dur": 0
+  },
+  {
+   "t": 14.4,
+   "string": 1,
+   "fret": 10,
+   "dur": 0
+  },
+  {
+   "t": 15,
+   "string": 3,
+   "fret": 9,
+   "dur": 0
+  },
+  {
+   "t": 15,
+   "string": 1,
+   "fret": 8,
+   "dur": 0
+  },
+  {
+   "t": 15.6,
+   "string": 3,
+   "fret": 7,
+   "dur": 0
+  },
+  {
+   "t": 15.6,
+   "string": 1,
+   "fret": 7,
+   "dur": 0
+  },
+  {
+   "t": 16.2,
+   "string": 3,
+   "fret": 4,
+   "dur": 0
+  },
+  {
+   "t": 16.2,
+   "string": 1,
+   "fret": 4,
+   "dur": 0
+  },
+  {
+   "t": 16.8,
+   "string": 3,
+   "fret": 5,
+   "dur": 1.02
+  },
+  {
+   "t": 16.8,
+   "string": 1,
+   "fret": 5,
+   "dur": 1.02
+  },
+  {
+   "t": 18,
+   "string": 5,
+   "fret": 0,
+   "dur": 0
+  }
+ ]
+}

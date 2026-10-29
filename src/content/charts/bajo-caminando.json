@@ -1,0 +1,168 @@
+{
+ "id": "bajo-caminando",
+ "title": {
+  "es": "Caminando al acorde",
+  "en": "Walking to the Chord"
+ },
+ "description": {
+  "es": "Caminados cromáticos que llevan de un acorde al otro, como el tololoche.",
+  "en": "Chromatic walk-ups that lead from chord to chord, tololoche style."
+ },
+ "instrument": "bass",
+ "tuning": [
+  0,
+  0,
+  0,
+  0
+ ],
+ "bpm": 100,
+ "timeSig": [
+  2,
+  4
+ ],
+ "difficulty": 2,
+ "sections": [
+  {
+   "name": "Lam a Rem",
+   "start": 0
+  },
+  {
+   "name": "Rem a Lam",
+   "start": 6
+  }
+ ],
+ "notes": [
+  {
+   "t": 0,
+   "string": 3,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 0.6,
+   "string": 4,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 1.2,
+   "string": 3,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 1.8,
+   "string": 4,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 2.4,
+   "string": 3,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 2.7,
+   "string": 3,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 3,
+   "string": 3,
+   "fret": 3,
+   "dur": 0
+  },
+  {
+   "t": 3.3,
+   "string": 3,
+   "fret": 4,
+   "dur": 0
+  },
+  {
+   "t": 3.6,
+   "string": 2,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 4.2,
+   "string": 3,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 4.8,
+   "string": 2,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 5.4,
+   "string": 3,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 6,
+   "string": 2,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 6.3,
+   "string": 2,
+   "fret": 1,
+   "dur": 0
+  },
+  {
+   "t": 6.6,
+   "string": 2,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 7.2,
+   "string": 2,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 7.8,
+   "string": 3,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 8.4,
+   "string": 4,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 8.7,
+   "string": 4,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 9,
+   "string": 4,
+   "fret": 3,
+   "dur": 0
+  },
+  {
+   "t": 9.3,
+   "string": 4,
+   "fret": 4,
+   "dur": 0
+  },
+  {
+   "t": 9.6,
+   "string": 3,
+   "fret": 0,
+   "dur": 1.02
+  }
+ ]
+}

@@ -1,0 +1,248 @@
+{
+ "id": "gtr-ligados",
+ "title": {
+  "es": "Ligados",
+  "en": "Hammer-ons & Pull-offs"
+ },
+ "description": {
+  "es": "Púa solo en la primera nota de cada grupo; las demás salen con la mano izquierda.",
+  "en": "Pick only the first note of each group; the fretting hand does the rest."
+ },
+ "instrument": "guitar",
+ "tuning": [
+  0,
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "bpm": 90,
+ "timeSig": [
+  4,
+  4
+ ],
+ "difficulty": 2,
+ "sections": [
+  {
+   "name": "Bajando",
+   "start": 0
+  },
+  {
+   "name": "Subiendo",
+   "start": 5.3333
+  }
+ ],
+ "notes": [
+  {
+   "t": 0,
+   "string": 1,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 0.3333,
+   "string": 1,
+   "fret": 8,
+   "dur": 0,
+   "tech": [
+    "hammer"
+   ]
+  },
+  {
+   "t": 0.6667,
+   "string": 1,
+   "fret": 5,
+   "dur": 0,
+   "tech": [
+    "pull"
+   ]
+  },
+  {
+   "t": 1,
+   "string": 2,
+   "fret": 8,
+   "dur": 0
+  },
+  {
+   "t": 1.3333,
+   "string": 2,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 1.6667,
+   "string": 2,
+   "fret": 8,
+   "dur": 0,
+   "tech": [
+    "hammer"
+   ]
+  },
+  {
+   "t": 2,
+   "string": 2,
+   "fret": 5,
+   "dur": 0,
+   "tech": [
+    "pull"
+   ]
+  },
+  {
+   "t": 2.3333,
+   "string": 3,
+   "fret": 7,
+   "dur": 0
+  },
+  {
+   "t": 2.6667,
+   "string": 3,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 3,
+   "string": 3,
+   "fret": 7,
+   "dur": 0,
+   "tech": [
+    "hammer"
+   ]
+  },
+  {
+   "t": 3.3333,
+   "string": 3,
+   "fret": 5,
+   "dur": 0,
+   "tech": [
+    "pull"
+   ]
+  },
+  {
+   "t": 3.6667,
+   "string": 4,
+   "fret": 7,
+   "dur": 0
+  },
+  {
+   "t": 4,
+   "string": 4,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 4.3333,
+   "string": 4,
+   "fret": 7,
+   "dur": 0,
+   "tech": [
+    "hammer"
+   ]
+  },
+  {
+   "t": 4.6667,
+   "string": 4,
+   "fret": 5,
+   "dur": 0.5667,
+   "tech": [
+    "pull"
+   ]
+  },
+  {
+   "t": 5.3333,
+   "string": 4,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 5.6667,
+   "string": 4,
+   "fret": 7,
+   "dur": 0,
+   "tech": [
+    "hammer"
+   ]
+  },
+  {
+   "t": 6,
+   "string": 3,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 6.3333,
+   "string": 3,
+   "fret": 7,
+   "dur": 0,
+   "tech": [
+    "hammer"
+   ]
+  },
+  {
+   "t": 6.6667,
+   "string": 2,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 7,
+   "string": 2,
+   "fret": 8,
+   "dur": 0,
+   "tech": [
+    "hammer"
+   ]
+  },
+  {
+   "t": 7.3333,
+   "string": 1,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 7.6667,
+   "string": 1,
+   "fret": 8,
+   "dur": 0,
+   "tech": [
+    "hammer"
+   ]
+  },
+  {
+   "t": 8,
+   "string": 1,
+   "fret": 8,
+   "dur": 0
+  },
+  {
+   "t": 8.3333,
+   "string": 1,
+   "fret": 5,
+   "dur": 0,
+   "tech": [
+    "pull"
+   ]
+  },
+  {
+   "t": 8.6667,
+   "string": 2,
+   "fret": 8,
+   "dur": 0
+  },
+  {
+   "t": 9,
+   "string": 2,
+   "fret": 5,
+   "dur": 0,
+   "tech": [
+    "pull"
+   ]
+  },
+  {
+   "t": 9.3333,
+   "string": 3,
+   "fret": 5,
+   "dur": 1.1333
+  }
+ ]
+}

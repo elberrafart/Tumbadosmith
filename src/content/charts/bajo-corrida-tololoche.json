@@ -1,0 +1,318 @@
+{
+ "id": "bajo-corrida-tololoche",
+ "title": {
+  "es": "Corrida de tololoche",
+  "en": "Tololoche Run"
+ },
+ "description": {
+  "es": "Semicorcheas cromáticas. Empieza al 60% en modo práctica y deja que suba la velocidad.",
+  "en": "Chromatic sixteenths. Start at 60% in practice mode and let the speed climb."
+ },
+ "instrument": "bass",
+ "tuning": [
+  0,
+  0,
+  0,
+  0
+ ],
+ "bpm": 110,
+ "timeSig": [
+  2,
+  4
+ ],
+ "difficulty": 4,
+ "sections": [
+  {
+   "name": "Corrida",
+   "start": 0
+  },
+  {
+   "name": "Remate",
+   "start": 4.3636
+  }
+ ],
+ "notes": [
+  {
+   "t": 0,
+   "string": 3,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 0.1364,
+   "string": 3,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 0.2727,
+   "string": 3,
+   "fret": 3,
+   "dur": 0
+  },
+  {
+   "t": 0.4091,
+   "string": 3,
+   "fret": 4,
+   "dur": 0
+  },
+  {
+   "t": 0.5455,
+   "string": 2,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 0.6818,
+   "string": 2,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 0.8182,
+   "string": 2,
+   "fret": 3,
+   "dur": 0
+  },
+  {
+   "t": 0.9545,
+   "string": 2,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 1.0909,
+   "string": 1,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 1.2273,
+   "string": 1,
+   "fret": 3,
+   "dur": 0
+  },
+  {
+   "t": 1.3636,
+   "string": 1,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 1.5,
+   "string": 2,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 1.6364,
+   "string": 2,
+   "fret": 3,
+   "dur": 0
+  },
+  {
+   "t": 1.7727,
+   "string": 2,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 1.9091,
+   "string": 2,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 2.0455,
+   "string": 3,
+   "fret": 4,
+   "dur": 0
+  },
+  {
+   "t": 2.1818,
+   "string": 2,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 2.4545,
+   "string": 3,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 2.7273,
+   "string": 2,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 3,
+   "string": 2,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 3.2727,
+   "string": 2,
+   "fret": 3,
+   "dur": 0
+  },
+  {
+   "t": 3.4091,
+   "string": 2,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 3.5455,
+   "string": 2,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 3.6818,
+   "string": 3,
+   "fret": 4,
+   "dur": 0
+  },
+  {
+   "t": 3.8182,
+   "string": 3,
+   "fret": 3,
+   "dur": 0
+  },
+  {
+   "t": 3.9545,
+   "string": 3,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 4.0909,
+   "string": 3,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 4.2273,
+   "string": 4,
+   "fret": 4,
+   "dur": 0
+  },
+  {
+   "t": 4.3636,
+   "string": 3,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 4.9091,
+   "string": 4,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 5.4545,
+   "string": 4,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 5.5909,
+   "string": 4,
+   "fret": 1,
+   "dur": 0
+  },
+  {
+   "t": 5.7273,
+   "string": 4,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 5.8636,
+   "string": 4,
+   "fret": 3,
+   "dur": 0
+  },
+  {
+   "t": 6,
+   "string": 4,
+   "fret": 4,
+   "dur": 0
+  },
+  {
+   "t": 6.1364,
+   "string": 3,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 6.2727,
+   "string": 3,
+   "fret": 1,
+   "dur": 0
+  },
+  {
+   "t": 6.4091,
+   "string": 3,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 6.5455,
+   "string": 3,
+   "fret": 3,
+   "dur": 0
+  },
+  {
+   "t": 6.6818,
+   "string": 3,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 6.8182,
+   "string": 3,
+   "fret": 3,
+   "dur": 0
+  },
+  {
+   "t": 6.9545,
+   "string": 3,
+   "fret": 4,
+   "dur": 0
+  },
+  {
+   "t": 7.0909,
+   "string": 2,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 7.3636,
+   "string": 2,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 7.6364,
+   "string": 4,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 7.9091,
+   "string": 4,
+   "fret": 4,
+   "dur": 0
+  },
+  {
+   "t": 8.1818,
+   "string": 3,
+   "fret": 0,
+   "dur": 0.4636
+  }
+ ]
+}

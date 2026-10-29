@@ -1,0 +1,220 @@
+{
+ "id": "bajo-ligados",
+ "title": {
+  "es": "Ligados en el bajo",
+  "en": "Bass Legato"
+ },
+ "description": {
+  "es": "Hammer-ons, pull-offs y slides en La menor. Deja que suene cada nota.",
+  "en": "Hammer-ons, pull-offs and slides in A minor. Let every note ring."
+ },
+ "instrument": "bass",
+ "tuning": [
+  0,
+  0,
+  0,
+  0
+ ],
+ "bpm": 90,
+ "timeSig": [
+  4,
+  4
+ ],
+ "difficulty": 3,
+ "sections": [
+  {
+   "name": "A",
+   "start": 0
+  },
+  {
+   "name": "B",
+   "start": 5.3333
+  }
+ ],
+ "notes": [
+  {
+   "t": 0,
+   "string": 3,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 0.3333,
+   "string": 3,
+   "fret": 2,
+   "dur": 0,
+   "tech": [
+    "hammer"
+   ]
+  },
+  {
+   "t": 0.6667,
+   "string": 3,
+   "fret": 3,
+   "dur": 0,
+   "tech": [
+    "hammer"
+   ]
+  },
+  {
+   "t": 1,
+   "string": 2,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 1.3333,
+   "string": 2,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 1.6667,
+   "string": 2,
+   "fret": 0,
+   "dur": 0,
+   "tech": [
+    "pull"
+   ]
+  },
+  {
+   "t": 2,
+   "string": 3,
+   "fret": 3,
+   "dur": 0
+  },
+  {
+   "t": 2.3333,
+   "string": 3,
+   "fret": 2,
+   "dur": 0,
+   "tech": [
+    "pull"
+   ]
+  },
+  {
+   "t": 2.6667,
+   "string": 3,
+   "fret": 0,
+   "dur": 0
+  },
+  {
+   "t": 3.3333,
+   "string": 3,
+   "fret": 5,
+   "dur": 0.5667,
+   "slideTo": 7,
+   "tech": [
+    "slide"
+   ]
+  },
+  {
+   "t": 4,
+   "string": 2,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 4.3333,
+   "string": 2,
+   "fret": 7,
+   "dur": 0,
+   "tech": [
+    "hammer"
+   ]
+  },
+  {
+   "t": 4.6667,
+   "string": 2,
+   "fret": 5,
+   "dur": 0,
+   "tech": [
+    "pull"
+   ]
+  },
+  {
+   "t": 5.3333,
+   "string": 1,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 5.6667,
+   "string": 1,
+   "fret": 4,
+   "dur": 0,
+   "tech": [
+    "hammer"
+   ]
+  },
+  {
+   "t": 6,
+   "string": 1,
+   "fret": 5,
+   "dur": 0,
+   "tech": [
+    "hammer"
+   ]
+  },
+  {
+   "t": 6.3333,
+   "string": 1,
+   "fret": 4,
+   "dur": 0,
+   "tech": [
+    "pull"
+   ]
+  },
+  {
+   "t": 6.6667,
+   "string": 1,
+   "fret": 2,
+   "dur": 0,
+   "tech": [
+    "pull"
+   ]
+  },
+  {
+   "t": 7,
+   "string": 2,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 7.3333,
+   "string": 2,
+   "fret": 7,
+   "dur": 0,
+   "tech": [
+    "hammer"
+   ]
+  },
+  {
+   "t": 7.6667,
+   "string": 2,
+   "fret": 5,
+   "dur": 0,
+   "tech": [
+    "pull"
+   ]
+  },
+  {
+   "t": 8,
+   "string": 2,
+   "fret": 3,
+   "dur": 0
+  },
+  {
+   "t": 8.6667,
+   "string": 2,
+   "fret": 2,
+   "dur": 0
+  },
+  {
+   "t": 9.3333,
+   "string": 3,
+   "fret": 0,
+   "dur": 1.1333
+  }
+ ]
+}

@@ -1,0 +1,158 @@
+{
+ "id": "gtr-escala-la-menor",
+ "title": {
+  "es": "Escala de La menor",
+  "en": "A Minor Scale"
+ },
+ "description": {
+  "es": "Sube en La menor natural y baja con el Sol# de la menor armónica, el sonido clásico del requinto.",
+  "en": "Up A natural minor, back down with the harmonic-minor G#, the classic requinto sound."
+ },
+ "instrument": "guitar",
+ "tuning": [
+  0,
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "bpm": 90,
+ "timeSig": [
+  3,
+  4
+ ],
+ "difficulty": 1,
+ "sections": [
+  {
+   "name": "Subida",
+   "start": 0
+  },
+  {
+   "name": "Bajada",
+   "start": 8
+  }
+ ],
+ "notes": [
+  {
+   "t": 0,
+   "string": 6,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 0.6667,
+   "string": 6,
+   "fret": 7,
+   "dur": 0
+  },
+  {
+   "t": 1.3333,
+   "string": 6,
+   "fret": 8,
+   "dur": 0
+  },
+  {
+   "t": 2,
+   "string": 5,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 2.6667,
+   "string": 5,
+   "fret": 7,
+   "dur": 0
+  },
+  {
+   "t": 3.3333,
+   "string": 5,
+   "fret": 8,
+   "dur": 0
+  },
+  {
+   "t": 4,
+   "string": 4,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 4.6667,
+   "string": 4,
+   "fret": 7,
+   "dur": 0
+  },
+  {
+   "t": 5.3333,
+   "string": 3,
+   "fret": 4,
+   "dur": 0
+  },
+  {
+   "t": 6,
+   "string": 3,
+   "fret": 5,
+   "dur": 1.1333
+  },
+  {
+   "t": 8,
+   "string": 3,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 8.6667,
+   "string": 3,
+   "fret": 4,
+   "dur": 0
+  },
+  {
+   "t": 9.3333,
+   "string": 4,
+   "fret": 7,
+   "dur": 0
+  },
+  {
+   "t": 10,
+   "string": 4,
+   "fret": 6,
+   "dur": 0
+  },
+  {
+   "t": 10.6667,
+   "string": 5,
+   "fret": 8,
+   "dur": 0
+  },
+  {
+   "t": 11.3333,
+   "string": 5,
+   "fret": 7,
+   "dur": 0
+  },
+  {
+   "t": 12,
+   "string": 5,
+   "fret": 5,
+   "dur": 0
+  },
+  {
+   "t": 12.6667,
+   "string": 6,
+   "fret": 8,
+   "dur": 0
+  },
+  {
+   "t": 13.3333,
+   "string": 6,
+   "fret": 7,
+   "dur": 0
+  },
+  {
+   "t": 14,
+   "string": 6,
+   "fret": 5,
+   "dur": 1.1333
+  }
+ ]
+}
